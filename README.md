@@ -13,6 +13,9 @@
 - Lightweight and easy to run  
 - Experimental and fun-focused  
 
+**Training Data Instructions:**  
+Go to `Data.txt` and add text a user has written in the past—sentences, summaries, or any statements. The more data, the better the AI can mimic their style.  
+
 ---
 
 ## Project Structure
@@ -27,7 +30,7 @@
 
 1. Make sure Python 3 is installed on your machine.  
 2. Install any required packages (if any; typically built-in libraries are enough).  
-3. Modify `Data.txt` with your own text style examples.  
+3. Populate `Data.txt` with user text as explained above.  
 4. Run `App.py` and provide input text to see it rephrased in the style of `Data.txt`.  
 
 ---
