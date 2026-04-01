@@ -45,4 +45,10 @@ Go to `Data.txt` and add text a user has written in the past—sentences, summar
 
 ## Author
 
-Developed by **Zayd O'Donovan**  
+Developed by **Zayd O'Donovan**
+
+---
+
+## License
+
+This project is licensed under the MIT License.
